@@ -31,7 +31,7 @@ git clone https://github.com/yourusername/custom-blogging-platform.git
 2. Navigate to the project directory:
 
 ```bash
-cd custom-blogging-platform
+cd Blog
 ```
 
 3. Install dependencies:
